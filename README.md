@@ -7,10 +7,10 @@ Eu sou **Tiago Zocatelli**, um desenvolvedor apaixonado por construir aplicaçõ
 ---
 
 ### 🚀 Sobre Mim:
-- 🌱 Atualmente aprendendo e dominando **TypeScript** e **Redux**.
-- 🔭 Trabalhando em vários projetos com **React** e **Vue.js**.
+- 🌱 Atualmente aprendendo e dominando **TypeScript**, **Redux** e **React**.
+- 🔭 Trabalhando em projetos com **React** e **Python** .
 - 💬 Pergunte-me sobre **Desenvolvimento Web**, **JavaScript** e **CSS**.
-- 📫 Como me encontrar: [Seu Email](mailto:your.email@example.com)
+- 📫 Como me encontrar: [Seu Email](mailto:zokahtv@gmail.com)
 
 ---
 
