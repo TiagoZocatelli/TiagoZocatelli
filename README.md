@@ -55,9 +55,9 @@ Tenho atuação completa, desde **infraestrutura e backend até frontend e visua
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TiagoZocatelli&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoZocatelli&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TiagoZocatelli&show_icons=true&theme=radical&cache_seconds=1800)
+![Linguagens Mais Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TiagoZocatelli&layout=compact&theme=radical&cache_seconds=1800)
+guagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoZocatelli&layout=compact&theme=radical)
 
 ---
 
