@@ -51,10 +51,14 @@ Docker • Linux • Nginx • Git
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TiagoZocatelli&show_icons=true&theme=radical&cache_seconds=1800)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TiagoZocatelli&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TiagoZocatelli&layout=compact&theme=radical&cache_seconds=1800)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoZocatelli&layout=compact&theme=radical)
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoZocatelli&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoZocatelli&layout=compact&theme=radical"/>
+</p>
 ---
 
 ## 🧠 Áreas de Especialização
