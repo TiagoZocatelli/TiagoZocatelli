@@ -55,10 +55,8 @@ Docker • Linux • Nginx • Git
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoZocatelli&layout=compact&theme=radical)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoZocatelli&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoZocatelli&layout=compact&theme=radical"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoZocatelli&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoZocatelli&layout=compact&theme=radical"/>
 ---
 
 ## 🧠 Áreas de Especialização
