@@ -1,78 +1,75 @@
 # 👋 Olá, eu sou Tiago Zocatelli
 
-Sou **Engenheiro de Software e Desenvolvedor Full Stack**, atuando na criação de **sistemas, APIs, automações e plataformas de dados**, com experiência em soluções empresariais, varejo e aplicações analíticas.
+💻 **Engenheiro de Software | Full Stack Developer | Data & Systems Engineer**
 
-Tenho atuação completa, desde **infraestrutura e backend até frontend e visualização de dados**, desenvolvendo sistemas escaláveis que apoiam operações e decisões estratégicas.
+Atuo no desenvolvimento de **sistemas escaláveis, APIs robustas e plataformas analíticas**, com foco em resolver problemas reais de negócio, principalmente nos setores **varejo, financeiro e gestão empresarial**.
+
+Tenho experiência completa no ciclo de desenvolvimento — da **infraestrutura ao frontend**, criando soluções que transformam dados em decisões estratégicas.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 💼 Engenheiro de Software focado em sistemas empresariais e varejo  
-- 🧠 Experiência em desenvolvimento de sistemas, APIs e integrações de dados  
-- 🔧 Integração de sistemas legados com plataformas modernas  
-- 📊 BI e dashboards como parte de soluções de gestão e análise  
-- ⚙️ Experiência com automações, scripts e infraestrutura Linux  
-- 🌱 Evoluindo continuamente em arquitetura e performance de sistemas  
-- 📫 Contato: **zokahtv@gmail.com**
+- 💼 Desenvolvimento de sistemas empresariais de alta performance  
+- 🧠 Forte atuação em **APIs, integração de dados e arquitetura de sistemas**  
+- 🔧 Modernização de sistemas legados (DBF, Harbour) para ambientes modernos  
+- 📊 Construção de **dashboards e soluções de BI orientadas a negócio**  
+- ⚙️ Automação de processos e otimização operacional  
+- 🐧 Experiência sólida com ambientes Linux e infraestrutura  
+- 🚀 Foco contínuo em **performance, escalabilidade e boas práticas**
+
+📫 **Contato:** zokahtv@gmail.com  
 
 ---
 
-## 🧩 Principais Tecnologias
+## 🧩 Stack Tecnológica
 
 ### 💻 Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Harbour](https://img.shields.io/badge/Harbour-0B3C5D?style=for-the-badge)
-
----
+Python • JavaScript • TypeScript • SQL • Harbour  
 
 ### ⚙️ Backend & Dados
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
+FastAPI • Flask • MySQL • PostgreSQL  
 
 ### 🎨 Frontend & Visualização
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![ECharts](https://img.shields.io/badge/ECharts-AA0000?style=for-the-badge)
-![ApexCharts](https://img.shields.io/badge/ApexCharts-1A73E8?style=for-the-badge)
+React • Redux • ECharts • ApexCharts  
+
+### 🛠️ DevOps & Infraestrutura
+Docker • Linux • Nginx • Git  
 
 ---
 
-### 🛠️ DevOps & Infraestrutura
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 📊 Destaques Técnicos
+
+- 🚀 Desenvolvimento de APIs de alta performance com FastAPI  
+- 📈 Sistemas analíticos com grandes volumes de dados  
+- 💳 Processamento e análise de transações financeiras  
+- 🔗 Integração entre sistemas legados e modernos  
+- ⚡ Otimização de consultas SQL e performance de banco  
+- 📦 Deploy e gerenciamento com Docker e Linux  
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TiagoZocatelli&show_icons=true&theme=radical&cache_seconds=1800)
+
 ![Linguagens Mais Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TiagoZocatelli&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
-## 🧠 Áreas de Atuação
+## 🧠 Áreas de Especialização
 
-- 💻 Desenvolvimento de sistemas e plataformas web  
-- 🔐 APIs e integrações entre sistemas  
-- ⚡ Processamento e integração de grandes volumes de dados  
-- 🤖 Automação de processos e infraestrutura  
-- 📈 Dashboards e sistemas analíticos  
-- 🛒 Soluções para varejo e gestão empresarial  
-- 💰 Sistemas financeiros e operacionais  
+- 💻 Sistemas Web e Plataformas SaaS  
+- 🔐 APIs e Arquitetura de Integração  
+- ⚡ Processamento de Dados em Alta Escala  
+- 🤖 Automação de Processos  
+- 📊 Business Intelligence e Dashboards  
+- 🛒 Soluções para Varejo  
+- 💰 Sistemas Financeiros e Fluxo de Caixa  
 
 ---
 
-## 🌐 Vamos nos Conectar
+## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tiago-zocatelli-a237a62a0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zokatelli_/)
